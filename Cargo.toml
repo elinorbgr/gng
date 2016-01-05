@@ -1,0 +1,12 @@
+[package]
+name = "proxy-logs-parser"
+version = "0.1.0"
+authors = ["Victor Berger <victor.berger@m4x.org>"]
+
+[dependencies]
+nom = "^0.3.11"
+chrono = "^0.2.15"
+rand = "^0.3.11"
+glium = "*"
+byteorder = "*"
+vec_map = "0.3"
